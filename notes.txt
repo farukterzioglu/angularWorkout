@@ -1,0 +1,7 @@
+https://alligator.io/angular/deploying-angular-app-github-pages/
+https://github.com/angular-schule/angular-cli-ghpages/issues/37
+
+(stop the page as soon as it loads, it redirects to a 404 page if you dont stop.)
+http://www.backalleycoder.com/2016/05/13/sghpa-the-single-page-app-hack-for-github-pages/
+
+https://github.com/csuwildcat/sghpa
